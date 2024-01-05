@@ -3,18 +3,21 @@
     background-color: aqua;
 } */
 
-.biker-zone{
+.biker-zone {
     background-color: rgb(252, 7, 7);
     border-radius: 10px;
     opacity: 100;
 }
-.ride-container{
+
+.ride-container {
     background-color: rgba(231, 111, 81, 0.10);
 
     ;
 }
-hr{
+
+hr {
     width: 5%;
-   
-    
+
+
 }
+
